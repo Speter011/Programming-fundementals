@@ -1,5 +1,6 @@
 
-This application analyses c++ source code and outputs:
+## Symbol table cmd application
+This application analyses c source code and outputs:
 - number of variables, listing their primitive types
 - functions and their primitive types
 - the number of `if` statements
@@ -18,5 +19,8 @@ This application analyses c++ source code and outputs:
 ```shell
 symbol_table test1.c
 ```
+
+#test files
+A lis of files is given to test the application: `test1.c`, `test2.c`, `test4.c`.
 
 *Note: Binary search tree functionality does not work currently.*
