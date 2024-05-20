@@ -1,3 +1,4 @@
+# Javadoc analyzer application
 This application analyses Javadoc comments inside Java source codde
 
 It outoputs the number of lines, non-blank lines, and Javadoc comments in the input file.
