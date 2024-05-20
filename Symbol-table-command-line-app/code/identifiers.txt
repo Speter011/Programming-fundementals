@@ -1,0 +1,6 @@
+name, line 22, variable, char, referenced 2
+main, line 20, function, int, referenced 0
+len, line 13, variable, int, referenced 9
+str, line 11, variable, char*, referenced 5
+len, line 3, variable, int, referenced 9
+string_length, line 1, function, int, referenced 2
